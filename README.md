@@ -107,8 +107,8 @@ Screenshots captured during the actual VMware/Kali setup are stored in [evidence
 
 GitHub's file preview may not render PDF/DOCX documents inline. Use these direct download links:
 
-- [Download PDF project report](https://github.com/has990/NETWORKWALKS-HASNAIN-AWAN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/raw/refs/heads/main/docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.pdf)
-- [Download editable Word report](https://github.com/has990/NETWORKWALKS-HASNAIN-AWAN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/raw/refs/heads/main/docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.docx)
+- [Download PDF project report](https://raw.githubusercontent.com/has990/NETWORKWALKS-HASNAIN-AWAN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/main/docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.pdf)
+- [Download editable Word report](https://raw.githubusercontent.com/has990/NETWORKWALKS-HASNAIN-AWAN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/main/docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.docx)
 
 The documents are stored in the `docs/` folder.
 
