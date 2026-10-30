@@ -103,10 +103,14 @@ Screenshots captured during the actual VMware/Kali setup are stored in [evidence
 | Snapshot creation | [09-snapshot-creation.png](evidence/09-snapshot-creation.png) |
 | Snapshot Manager confirmation | [10-snapshot-manager.png](evidence/10-snapshot-manager.png) |
 
-## Report
+## Report downloads
 
-- [PDF project report](docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.pdf)
-- [Editable Word report](docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.docx)
+GitHub's file preview may not render PDF/DOCX documents inline. Use these direct download links:
+
+- [Download PDF project report](https://github.com/has990/NETWORKWALKS-HASNAIN-AWAN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/raw/refs/heads/main/docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.pdf)
+- [Download editable Word report](https://github.com/has990/NETWORKWALKS-HASNAIN-AWAN-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP/raw/refs/heads/main/docs/VMware_Cybersecurity_Lab_Setup_Report_Hasnain_Awan.docx)
+
+The documents are stored in the `docs/` folder.
 
 ## Scope and safety
 
